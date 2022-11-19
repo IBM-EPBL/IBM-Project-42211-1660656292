@@ -1,0 +1,91 @@
+.body{
+    height: 100vh;
+}
+
+.plant-disease {
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    height: 10vh;
+    align-items: center;
+
+}
+
+.plant {
+    font-size: 20px;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: normal;
+    color: white;
+    margin-left: 30px;
+
+}
+
+.topic-right {
+    margin-right: 45px;
+}
+
+.menu {
+    font-size: 20px;
+    color: white;
+    font-weight: 100;
+    line-height: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gray;
+    list-style: none;
+    text-decoration: none;
+}
+
+.menu-2 {
+    font-size: 20px;
+    color: white;
+    font-weight: 100;
+    line-height: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-around;
+    background-color: #b7c0c2;
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 700;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    line-height: normal;
+    color: black;
+    padding: 0px 80px;
+}
+.img{
+    display: flex;
+    align-items: center;
+}
+.img-1 {
+    width: 361px;
+    height: 339px;
+    border-radius: 50%;
+    padding: 15px;
+}
+
+
+.Details {
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 30px;
+    padding: 0px 80px;
+
+}
+
+
+
+
+
+
+
+
+
+
